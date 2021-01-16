@@ -1,9 +1,11 @@
 ### Hi there 👋 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="220" />
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="600" height="300" />
 
  My name is Ayşe TAŞ and I'm a Junior Php Developer. 💜
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Laravel and Javascript.
+I'm a software engineer who is passionate about making open-source more accessible,<br>
+creating technology to elevate people, and building community. Some technologies <br>
+I enjoy working with include Laravel and Javascript.
 
 ## Discover me 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 🔭 I’m currently working on ...LARAVEL 
@@ -18,9 +20,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 [website]: https://#
 [linkedin]: https://linkedin.com/in/https://linkedin.com/in/ay%C5%9Fe-ta%C5%9F-2712b5142
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aysetas&show_icons=true&locale=en" alt="aysetas" width="400" height="220"/></p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aysetas&show_icons=true&theme=gruvbox)
 
- 
  ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
