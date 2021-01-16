@@ -21,7 +21,7 @@ I enjoy working with include Laravel and Javascript.
 [linkedin]: https://linkedin.com/in/https://linkedin.com/in/ay%C5%9Fe-ta%C5%9F-2712b5142
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysetas&show_icons=true&theme=gruvbox"  width="600" height="200"/></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=aysetas&show_icons=true&theme=gruvbox"  width="600" height="200"/></p>
 
  ### Languages and Tools:
 
