@@ -1,5 +1,6 @@
-### Hi there 👋 
 <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="600" height="300" />
+
+### Hi there 👋 
 
  My name is Ayşe TAŞ and I'm a Junior Php Developer. 💜
 
