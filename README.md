@@ -9,9 +9,9 @@ creating technology to elevate people, and building community. Some technologies
 I enjoy working with include Laravel and Javascript.
 
 ## Discover me 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- 🔭 I’m currently working on ...LARAVEL,Vue.Js 
-- 🧠  I’m currently learning ...LARAVEL ,Vue.Js
-- 👯 I’m looking to collaborate on ...LARAVEL,Vue.Js
+- 🔭 I’m currently working on ...LARAVEL
+- 🧠  I’m currently learning ...LARAVEL 
+- 👯 I’m looking to collaborate on ...LARAVEL
 - 💬 Ask me about ...ANYTHİNG
 
 🏡 [website][website] **|** 
