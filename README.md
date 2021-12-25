@@ -1,8 +1,8 @@
 <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="600" height="300" />
 
-### Hi there 👋 
+### Hi there 👋 👩🏾‍💻
 
- My name is Ayşe TAŞ and I'm a Junior Php Developer. 💜
+ My name is Ayşe TAŞ and I'm a Php Developer. 💜
 
 I'm a software engineer who is passionate about making open-source more accessible,<br>
 creating technology to elevate people, and building community. Some technologies <br>
