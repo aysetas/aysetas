@@ -21,9 +21,6 @@ I enjoy working with include Laravel and Javascript.
 [website]: https://#
 [linkedin]: https://linkedin.com/in/ay%C5%9Fe-ta%C5%9F-2712b5142
 
-
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=aysetas&show_icons=true&theme=gruvbox" width="600" /></p>
-
  ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
