@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="600" height="300" />
+<img align="right" src="https://z3-work.translate.goog/seferist/metronic-demo-6/assets/media/illustrations/sketchy-1/17.png" width="250" height="200" />
 
 ### Hi there 👋 👩🏾‍💻
 
@@ -8,7 +8,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 creating technology to elevate people, and building community. Some technologies <br>
 I enjoy working with include Laravel and Javascript.
 
-## Discover me 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Discover me 🌎: <a href="https://github.com/aysetas"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
 - 🔭 I’m currently working on ...LARAVEL
 - 🧠  I’m currently learning ...LARAVEL 
 - 👯 I’m looking to collaborate on ...LARAVEL
