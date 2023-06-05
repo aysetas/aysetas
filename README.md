@@ -20,7 +20,7 @@ I enjoy working with include Laravel and Javascript.
 💼 [linkedin][linkedin]
 
 [website]: https://#
-[linkedin]: https://linkedin.com/in/ay%C5%9Fe-ta%C5%9F-2712b5142
+[linkedin]: https://linkedin.com/in/ayse-tas
 
  ### Languages and Tools:
 
