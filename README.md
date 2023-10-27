@@ -14,12 +14,12 @@ I enjoy working with include Laravel and Javascript.
 - 🧠  I’m currently learning ...LARAVEL 
 - 👯 I’m looking to collaborate on ...LARAVEL
 - 💬 Ask me about ...ANYTHİNG
-
-🏡 [website][website] **|** 
+  
+📝 [medium][medium] **|** 
 📫  Email:aysetas464@gmail.com **|** 
 💼 [linkedin][linkedin]
 
-[website]: https://#
+[medium]: https://medium.com/@aysetas464
 [linkedin]: https://linkedin.com/in/ayse-tas
 
  ### Languages and Tools:
